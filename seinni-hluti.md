@@ -17,7 +17,7 @@
 * git branch : stjórnar branches.
 
 ### 4. Hvað er útgáfustýring (Version Control)?
-: 
+: útgáfustýring er kerfi sem heldur utan um breytingar á skrám yfir tíma, þannig að hægt sé að fara til baka í fyrri útgáfur ef þörf er á.
 ### 5. Hverjir eru helstu kostir við að nota GIT?
 : 
 ### 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
