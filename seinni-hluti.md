@@ -23,4 +23,4 @@
 ### 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 : Maður á að commita í hvert skipti sem maður breitir einhverju.
 ### 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
-: 
+: "Working Directory" er vinnusvæði og "Staging Area" er skráningarsvæði.
