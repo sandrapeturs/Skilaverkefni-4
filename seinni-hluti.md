@@ -7,9 +7,9 @@
 * mkdir - : "mkdir" býr til nýja möppu, "mkdir -" er sett á undan annara skipana t.d. "mkdir -p".
 
 ### 2. Hvað gera eftirfarandi Git skipanir?
-* git clone : 
-* git status : 
-* git diff : 
+* git clone : afritar á local tövu.
+* git status : sýnir stöðu skjala á vinnusvæðinu.
+* git diff : sýnir breytingar á skrám sem er ekki búið að commita.
 
 ### 3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
 * git log : 
