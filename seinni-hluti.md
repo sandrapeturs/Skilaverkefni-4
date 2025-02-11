@@ -12,9 +12,9 @@
 * git diff : sýnir breytingar á skrám sem er ekki búið að commita.
 
 ### 3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
-* git log : 
-* git checkout : 
-* git branch : 
+* git log : sýnir fyrrverandi commit.
+* git checkout : skiptir yfir í annað branch eða commit.
+* git branch : stjórnar branches.
 
 ### 4. Hvað er útgáfustýring (Version Control)?
 : 
